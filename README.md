@@ -1,4 +1,4 @@
-# Olá, me chamo Jessica Nascimento! 👋
+# Olá, sou Jessica Nascimento! 👋
 
 Sou desenvolvedora focada em Back-end e Dados.
 Meu objetivo é criar soluções eficientes e aprender algo novo todos os dias.
