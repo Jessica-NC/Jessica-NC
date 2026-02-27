@@ -15,5 +15,5 @@ Meu objetivo é criar soluções eficientes e aprender algo novo todos os dias.
 * Tecnologias: HTML, CSS. https://github.com/Jessica-NC/Projetos.git
 
 ### 🌐 Vamos nos conectar?
-- [LinkedIn](www.linkedin.com/in/jessica-nascimento-9136911b7)
-- [E-mail](jessicaswan191@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jessica-nascimento-9136911b7)
+- [E-mail](mailto:jessicaswan191@hotmail.com)
