@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou a Jessica Nascimento! 👋
 
-<!--
-**Jessica-NC/Jessica-NC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora focada em Back-end e Dados.
+Meu objetivo é criar soluções eficientes e aprender algo novo todos os dias.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas:
+* **Linguagens:** Java,  Python, JavaScrip.
+* **Frameworks/Bibliotecas:** React, Node.js.
+* **Ferramentas:** Git, Docker,Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Projetos em Destaque:
+* **Projeto Web:** Este projeto contém um site estático desenvolvido com HTML e CSS que funciona como uma página de apresentação/portfólio.
+* A página inclui imagens e estilos personalizados e pode ser usada para mostrar informações pessoais e projetos.
+
+* Tecnologias: HTML, CSS. https://github.com/Jessica-NC/Projetos.git
+
+### 🌐 Vamos nos conectar?
+- [LinkedIn](www.linkedin.com/in/jessica-nascimento-9136911b7)
+- [E-mail](jessicaswan191@hotmail.com)
